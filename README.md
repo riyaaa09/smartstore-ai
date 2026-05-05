@@ -107,6 +107,6 @@ UI is functional but minimally styled
 Automation frequency reduced for demo
 
 📹 Demo Video
-(Insert your demo video link here)
+https://drive.google.com/file/d/1ono4zXnZLl3CmNmeL6czyz6ZbwQn-U8B/view?usp=sharing
 
 
